@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Bernat Belmonte Frutos! 👋
 
-<!--
-**BernatBelmonte/BernatBelmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  📊 Data Scientist | Data Engineer | UPC Undergraduate
+Based in Barcelona, Spain 
 
-Here are some ideas to get you started:
+I am a Data Science and Engineering student at **Universitat Politècnica de Catalunya (UPC)**. I specialize in building robust data architectures, from automated ETL pipelines to real-time predictive models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎾 Padelytics (Ongoing)
+**Full-Stack Padel Analytics Platform**
+* **The Problem:** Professional padel lacks accessible, deep-telemetry analytics for fans and scouts.
+* **The Solution:** An end-to-end platform featuring a robust Python ETL pipeline with exponential backoff, a FastAPI backend on Render, and a Next.js frontend.
+* **Tech:** Python, FastAPI, Supabase (PostgreSQL), Next.js, TypeScript, Recharts.
+* *Key Achievement:* Mapping 70+ performance metrics per match.
+
+---
+## Skills
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, SQL, R, C++, MATLAB |
+| **Data Engineering** | ETL/ELT Pipelines, Data Lake Design, Supabase, Render |
+| **Machine Learning** | Scikit-learn, Deep Neural Networks, Predictive Modeling, SMOTE |
+
+---
+
+## 📫 Connect!
+
+* **Email:** [bernatbf11@gmail.com](mailto:bernatbf11@gmail.com)
