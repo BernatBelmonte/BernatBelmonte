@@ -7,8 +7,10 @@ I am a Data Science and Engineering student at **Universitat Politècnica de Cat
 
 ---
 
-## 🎾 Padelytics (Ongoing)
+## 🎾 Padelytics V1
 **Full-Stack Padel Analytics Platform**
+
+**[https://www.padelytics.es/](https://www.padelytics.es)**
 * **The Problem:** Professional padel lacks accessible, deep-telemetry analytics for fans and scouts.
 * **The Solution:** An end-to-end platform featuring a robust Python ETL pipeline with exponential backoff, a FastAPI backend on Render, and a Next.js frontend.
 * **Tech:** Python, FastAPI, Supabase (PostgreSQL), Next.js, TypeScript, Recharts.
