@@ -22,8 +22,8 @@ I am a Data Science and Engineering student at **Universitat Politècnica de Cat
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | Python, SQL, R, C++, MATLAB |
-| **Data Engineering** | ETL/ELT Pipelines, Data Lake Design, Supabase, Render |
-| **Machine Learning** | Scikit-learn, Deep Neural Networks, Predictive Modeling, SMOTE |
+| **Data Engineering** | ETL/ELT Pipelines, Data Lake Design, Postgres |
+| **Machine Learning** | Scikit-learn, Deep Neural Networks, Predictive Modeling, Time Series |
 
 ---
 
